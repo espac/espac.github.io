@@ -1,0 +1,12 @@
+html {
+    text-align: center;
+    background-color: cyan;
+    
+}
+
+button{
+    background-color: darkgray;
+    border-radius: 100px;
+    font-size: 25;
+    color: aliceblue;
+}
